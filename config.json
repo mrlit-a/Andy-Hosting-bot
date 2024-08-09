@@ -3,7 +3,7 @@
    "owner_name": "Mc andy",
    "database": "data",
    "limit": 25,
-   "ram_limit": "1.2gb",
+   "ram_limit": "900",
    "max_upload": 300,
    "max_upload_free": 600,
    "cooldown": 1,
